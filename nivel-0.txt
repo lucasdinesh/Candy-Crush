@@ -1,0 +1,8 @@
+15
+xxxxxxxxxxx
+xRGRBCCBGRx
+xRBBCGRGBGx
+xGGRCBCCRBx
+xBCGBRBGCGx
+xCBBRRGCBBx
+xxxxxxxxxxx
